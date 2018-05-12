@@ -1,0 +1,26 @@
+_repo: The-Winepress_45248
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45248-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Beals, Christine
+    gutenberg_agent_id: '43169'
+    url: http://www.gutenberg.org/2009/agents/43169
+description: ''
+gutenberg_issued: '2014-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45248'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Families of clergy -- Fiction'
+title: The Winepress
+url: http://www.gutenberg.org/ebooks/45248
